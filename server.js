@@ -41,7 +41,7 @@ function createTemplate (data) {
                             <head>
                                 
                                 <title>
-                                   $(title);
+                                   $(title)
                                 </title>
                                 <meta name="viewport" content="width-devide-width,initial-scale-1" />
                                <link href="/ui/style.css" rel="stylesheet" />
