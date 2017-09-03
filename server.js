@@ -53,13 +53,13 @@ function createTemplate (data) {
                                         </div>
                                         <br/>
                                         <h3>
-                                           $(heading);
+                                           $(heading)
                                         </h3>
                                          <div>
-                                                $(date);
+                                                $(date)
                                         </div>
                                         <div>
-                                           $(content);
+                                           $(content)
                                         </div>
                                 </div>
                             </body>
